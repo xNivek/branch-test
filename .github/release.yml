@@ -13,7 +13,15 @@ changelog:
         - Feat
     - title: Bug fixes
       labels:
-        - bug  
+        - bug 
+    - title: Documentation
+      labels:
+        - doc
+        - Doc
+    - title: Update
+      labels:
+        - Update
+        - update
     - title: Other Changes
       labels:
         - "*"
